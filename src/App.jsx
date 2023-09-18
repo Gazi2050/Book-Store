@@ -34,7 +34,7 @@ function App() {
   return (
     <div>
       <h1 className='text-4xl text-black font-bold text-center mt-10'>
-        <span className='text-emerald-600'>Book</span> <span className='text-orange-600'>Store</span>
+        <span className='text-emerald-600'>Book</span> <span className='text-orange-600'>Store!!!</span>
       </h1>
       <section className='p-5 w-full mx-auto grid lg:grid-cols-4 gap-4 lg:my-24 md:grid-cols-2 md:my-16 sm:grid-cols-1 sm:my-12 md:items-center'>
         <div className='lg:col-span-3 md:col-span-2 sm:col-span-1 grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-4'>
